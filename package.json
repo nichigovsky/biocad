@@ -5,7 +5,7 @@
   "homepage": "https://nichigovsky.github.io/biocad/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
     "lint": "eslint ."
