@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/biocad/static/css/main.eb505b8d.css",
+    "main.js": "/biocad/static/js/main.9a45840b.js",
+    "index.html": "/biocad/index.html",
+    "main.eb505b8d.css.map": "/biocad/static/css/main.eb505b8d.css.map",
+    "main.9a45840b.js.map": "/biocad/static/js/main.9a45840b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb505b8d.css",
+    "static/js/main.9a45840b.js"
+  ]
+}
